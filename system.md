@@ -1,4 +1,4 @@
-# System Architecture for Doctor Appointment App
+# System Architecture for DOCSPOT
 
 ## 1. Client-Side (Frontend)
    - **Framework**: React (using React Bootstrap for views, Material-UI icons)
